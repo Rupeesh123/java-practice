@@ -7,10 +7,10 @@ public class VariablesDemo {
 		
 		int x=10;
 		int y=200;
-		int z=x-y;
+		int z=x+ y;
 		System.out.println("hey the sum is "+ z);
 		
-		String name="dhanunjay";
+		String name="Rupeesh";
 		
 		System.out.println("Hey "+name+ " how are you");
 		
