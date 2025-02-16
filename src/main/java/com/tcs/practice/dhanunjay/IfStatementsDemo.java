@@ -1,6 +1,6 @@
 package com.tcs.practice.dhanunjay;
 
-public class ControlStatementsDemo {
+public class IfStatementsDemo {
 
 	public static void main(String[] args) {
 
